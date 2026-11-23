@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" width="96" alt="Open Markdown Bookmark Format logo">
+</p>
+
 # The Open Markdown Bookmark Format
 
 Version 1.0 — 2026-11-23 · [Source, issues & contributing on GitHub](https://github.com/hbroek/open-markdown-bookmark-format)

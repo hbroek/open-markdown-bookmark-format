@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/assets/logo.svg" width="96" alt="Open Markdown Bookmark Format logo">
+</p>
+
 # The Open Markdown Bookmark Format
 
 A vendor-neutral, plain-markdown bookmark format — originated by
